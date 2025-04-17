@@ -1,1 +1,4 @@
 # NLP_Medium_Article
+Languages follow specific spelling and pronunciation rules to maintain clarity in reading and writing. Tamil also has such rules, and an essential concept in Tamil grammar is “சந்தி” (Sandhi) — the phonetic changes that occur when two words (or sounds) join together. The term “சந்தி” originates from Sanskrit “Sandhi” (संधि), meaning “joining” or “union” of sounds.
+
+There are different types of Sandhi in Tamil, including Uyirmei Deergha Sandhi (உயிர்மெய் நீர்க்க சந்தி), Gunam Sandhi (குணம் சந்தி), Vriddhi Sandhi (விருத்தி சந்தி), and Ayutha Sandhi (அயுத சந்தி), each following specific rules. Uyirmei Deergha Sandhi is a commonly observed type, occurring when a short vowel (அ, இ, உ) at the end of a word meets the same short vowel at the beginning of the next word, forming a long vowel (ஆ, ஈ, ஊ).
